@@ -84,5 +84,8 @@
 </div>
 
 ###
-![LeetCode Stats](https://leetcard.jacoblin.cool/dhurkesh-b?theme=dark&font=ABeeZee&ext=heatmap)
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/dhurkesh-b?theme=dark&font=ABeeZee&ext=heatmap" alt="LeetCode Stats" />
+</div>
+
 ###
