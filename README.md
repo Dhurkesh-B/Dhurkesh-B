@@ -23,7 +23,10 @@
 ###
 
 <p align="left">👋 Hi, I'm Dhurkesh from Chennai<br><br>🔭 I’m working as an Experienced Software Engineer, specializing in Artificial Intelligence (AI), Machine Learning (ML), and Web Development.<br>📚 I'm currently learning advanced deep learning techniques, cloud computing, and scalable AI architectures.<br>⚡ In my free time, I explore new AI innovations, participate in coding competitions, and contribute to open-source projects.</p>
-
+<div align="center">
+ <img src="https://imgs.search.brave.com/19ARwduANNCtcflJ4_9JkvBFumGkE-f2nA8Q77NA9Fs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtY2hvY2stY29k/aW5nLWM3OGY2ZWxq/MzJzZm9pOHEuZ2lm.gif" 
+    style="max-width: 100%; height: auto; border-radius: 15px;" />
+</div>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
