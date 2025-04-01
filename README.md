@@ -27,7 +27,6 @@
  <img src="https://imgs.search.brave.com/19ARwduANNCtcflJ4_9JkvBFumGkE-f2nA8Q77NA9Fs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtY2hvY2stY29k/aW5nLWM3OGY2ZWxq/MzJzZm9pOHEuZ2lm.gif" 
     style="max-width: 100%; height: auto; border-radius: 15px;" />
 </div>
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
