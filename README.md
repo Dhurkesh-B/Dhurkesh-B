@@ -3,18 +3,22 @@
 </div>
 
 ###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/dhurkeshb/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
   <a href="mailto:dhurkeshmyself@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
   </a>
-  <a href="https://stackoverflow.com/users/29399310/dhurkesh-b" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  <a href="https://leetcode.com/dhurkesh-b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode logo" />
+  </a>
+  <a href="https://dhurkesh.netlify/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=about-dot-me&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio logo" />
   </a>
 </div>
+
+
 
 ###
 
