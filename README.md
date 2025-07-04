@@ -99,3 +99,8 @@
 
 ###
 
+### 🧊 3D Contribution Chart
+
+<div align="center">
+  <img src="src/dhurkesh-b.svg" alt="3D Contribution Chart" width="80%" />
+</div>
