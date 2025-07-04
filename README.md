@@ -97,10 +97,7 @@
 
 ##
 
-<h3 align="left">
-  <img src="https://img.icons8.com/?size=64&id=fiCYSJOnXi7E&format=png" width="22" style="margin-right: 6px;" />
-  LeetCode :
-</h3>
+<h3 align="left">⭐   LeetCode :</h3>
 
 
 ###
