@@ -10,6 +10,10 @@
   <a href="https://dhurkesh.netlify/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=about-dot-me&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio logo" />
   </a>
+  <a href="https://dhurkesh.bot.nu/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Chatbot&logo=bot&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="chatbot logo" />
+ </a>
+
   <a href="https://leetcode.com/dhurkesh-b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode logo" />
   </a>
