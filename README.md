@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/dhurkeshb/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
-  <a href="https://dhurkesh.netlify/" target="_blank">
+  <a href="https://dhurkesh.tech/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=about-dot-me&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio logo" />
   </a>
   <a href="https://dhurkesh.bot.nu/" target="_blank">
